@@ -128,7 +128,5 @@ Snort will display alerts on the console and log them under:
 | `README.md`             | This guide                             |
 | (Optional) `alerts.log` | Sample output for analysis (if added)  |
 
----
-> ⚠️ **Disclaimer:** This project is for **educational and ethical** penetration testing purposes only. Do **not** perform scans or attacks on networks you don’t own or have explicit permission to test.
 
 
