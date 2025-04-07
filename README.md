@@ -118,15 +118,4 @@ Snort will display alerts on the console and log them under:
 - 📘 [Snort Rule Writing Guide (PDF)](https://snort.org/documents)
 - 📘 [Snort Official Documentation](https://docs.snort.org/)
 
----
-
-## 📁 Files in This Repo
-
-| File Name               | Description                            |
-|-------------------------|----------------------------------------|
-| `local.rules`           | Custom Snort rules written by me       |
-| `README.md`             | This guide                             |
-| (Optional) `alerts.log` | Sample output for analysis (if added)  |
-
-
 
