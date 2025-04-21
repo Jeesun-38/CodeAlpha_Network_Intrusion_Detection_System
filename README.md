@@ -1,6 +1,6 @@
-# 📡 CodeAlpha_Network_Intrusion_Detection_System
+# 📡 Network_Intrusion_Detection_System
 
-This repository provides a step-by-step guide for setting up a Network Intrusion Detection System (NIDS) using Snort, developed during Task 3 of my Cybersecurity Internship at CodeAlpha.
+This repository provides a step-by-step guide for setting up a Network Intrusion Detection System (NIDS) using Snort, developed during  my Cybersecurity Internship.
 The project includes a set of custom Snort rules designed to detect common attack patterns such as reconnaissance, brute-force.
 
 ---
